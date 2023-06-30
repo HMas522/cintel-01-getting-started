@@ -24,7 +24,7 @@ body {
 header {
   padding: 10px;
   text-align: center;
-  background-color: #007BFF;
+  background-color: #dda0dd F;
   color: white;
   font-size: 2em;
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
@@ -46,7 +46,7 @@ header {
 .sidebar {
   flex: 1;
   padding: 10px;
-  background-color: #f0f0f0;
+  background-color: 	#3cb371;
   transition: background-color 0.5s ease;
   /* Gradual change when the color changes */
 }
